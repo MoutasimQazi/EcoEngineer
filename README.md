@@ -2,7 +2,8 @@
 
 Welcome to the EcoEngineer Challenge repository! This is a 17-week personal initiative where I, Moutasim Qazi, will be taking on diverse sustainable projects, focusing on solutions aligned with the United Nations Sustainable Development Goals (SDGs). Each week brings a new project, ranging from hardware implementations to web development, with an emphasis on incorporating cutting-edge technologies like AI & ML.
 
-![Banner](https://github.com/MoutasimQazi/EcoEngineer/assets/115083371/7033142a-8e83-4838-99ec-e968d5c854be)
+![Group 1](https://github.com/MoutasimQazi/EcoEngineer/assets/115083371/33fcc2f6-5f49-4bf5-af54-310169ea534e)
+
 
 ## Overview
 
