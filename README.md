@@ -36,5 +36,5 @@ Let's engineer a greener future together! 🌍💻
 ---
 
 **Disclaimer:** The EcoEngineer Challenge is a personal initiative and is not affiliated with or endorsed by any organization.
-**[PDF](https://drive.google.com/file/d/1mjd9x1QQXsTkkrVN7miCEcNUK9Hrb4-5/view?usp=sharing)**
+**[PDF]()**
 
