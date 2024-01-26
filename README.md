@@ -30,7 +30,7 @@ Welcome to the EcoEngineer Challenge repository! This is a 17-week personal init
 
 ## Challenge Kick-off
 
-The journey begins! Follow along with the EcoEngineer Challenge on [LinkedIn](insert_link_to_your_linkedin_profile) and dive into the projects here.
+The journey begins! Follow along with the EcoEngineer Challenge on [LinkedIn](https://www.linkedin.com/in/moutasimqazi/) and dive into the projects here.
 
 Let's engineer a greener future together! 🌍💻
 
